@@ -2,6 +2,19 @@
 
 This template should help get you started developing with Vue 3 and Typescript in Vite.
 
+## Feature Added
+- [x] 路由: vue-router@4
+- [ ] 路由: webpack 根据目录自动生成路由
+- [ ] 预编译器: Pug
+- [ ] 预编译器: Stylus
+- [ ] 接口数据模拟：Mock.js
+- [ ] 客户端错误监控：Fundebug.js
+- [ ] 样式: 分层初始化
+- [ ] 样式: 组件库
+- [ ] 插件:
+- [ ] 配置:
+- [ ] 数据:
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur). Make sure to enable `vetur.experimental.templateInterpolationService` in settings!
