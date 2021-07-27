@@ -6,7 +6,7 @@ This template should help get you started developing with Vue 3 and Typescript i
 - [x] 路由: vue-router@4
 - [ ] 路由: webpack 根据目录自动生成路由
 - [ ] 预编译器: Pug
-- [ ] 预编译器: Stylus
+- [x] 预编译器: Stylus
 - [ ] 接口数据模拟：Mock.js
 - [ ] 客户端错误监控：Fundebug.js
 - [ ] 样式: 分层初始化
