@@ -24,7 +24,7 @@
 - [ ] HarmonyOS
 - [ ] Electron
 ### 后端
-- [ ] Java: Spring Boot + MQ + Job
+- [ ] [Java: Spring Boot + MQ + Job](service-springboot)
 - [ ] Golang: Gin
 - [ ] Node: Nest.js
 - [ ] Python: Django
